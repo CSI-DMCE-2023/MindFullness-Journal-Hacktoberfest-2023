@@ -1,4 +1,4 @@
-# Tourism Blog
+# MindFullness Journal
 
 ## Maintainers
 Yet to be assigned! But you can raise issues and PR.
