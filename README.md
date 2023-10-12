@@ -1,7 +1,7 @@
 # MindFullness Journal
 
 ## Maintainers
-Yet to be assigned! But you can raise issues and PR.
+[Varad Dhumale](https://github.com/varad177/varad177)
 
 ## Installation
 
